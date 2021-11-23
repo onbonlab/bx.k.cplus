@@ -21,4 +21,4 @@
 
 您可以从以下链接阅读字库系列C++动态库接口使用说明：
 
-[K C++接口说明](http://onbondocs.gitee.io/k.cpp.docs/index.html)
+[K C++接口说明](http://onbondocs.gitee.io/k.cpp.docs)
